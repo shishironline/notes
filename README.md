@@ -7,7 +7,7 @@ created: 1664007951780
 ---
 # notes
 
-These are notes from reading the book [" Automate the Boring Stuff with Python" by Al Sweigart.](https://automatetheboringstuff.com/)
+These are notes from reading the book [" Automate the Boring Stuff with Python", 2nd Edition, by Al Sweigart.](https://automatetheboringstuff.com/)
 
 Heartfelt thanks to him and all the stalwarts who freely shared their hard earned knowledge with the world.
 
