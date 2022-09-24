@@ -1,3 +1,10 @@
+---
+id: n25s2mqlsvrtggdemn3pyrd
+title: Introduction
+desc: ''
+updated: 1664014332630
+created: 1664014169747
+---
 A program is given on this page, as an example.
 
 ```
@@ -21,5 +28,6 @@ else:
 
   print('Access denied')
 ```
+Add one text file SecretPasswordFile.txt in the current folder with password as its only content.
 
 It needs to be modified in order to run properly
