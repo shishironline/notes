@@ -9,7 +9,7 @@ created: 1664007951780
 
 These are notes from reading the book [" Automate the Boring Stuff with Python" by Al Sweigart.](https://automatetheboringstuff.com/)
 
-Great many thanks to him and all the stalwarts who freely their hard earned knowledge with the world.
+Heartfelt thanks to him and all the stalwarts who freely shared their hard earned knowledge with the world.
 
 All trials on Anaconda Python on Ubuntu Linux on WSL2 running on Windows 11 21H2.
 
