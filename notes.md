@@ -15,7 +15,8 @@ on Ubuntu-22.04.1 on WSL2
 ---
 activated base env
 
-added Invoke library from Pypi to the base env - global for running tasks in tasks.py
+added Invoke library from Pypi to the base env - global for running tasks in tasks.py - `pip install invoke`
 
 ---
 commit "added Invoke tasks lib to base env - global to execute tasks in tasks.py"
+
